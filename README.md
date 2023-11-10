@@ -90,4 +90,4 @@ So just unban them if banned.
 # CAUTION ⚠
 ### Aternos might detect your suspicious actions and can delete your account!  
 **By using this, you acknowledge that you're responsible for any problems arise.**  
-**I DO NOT RECOMMEND DOING THIS ON YOUR MAIN ATERNOS SERVER!**
+**I DO NOT RECOMMEND DOING THIS ON YOUR MAIN ATERNOS SERVER!**"# Atebots1" 
